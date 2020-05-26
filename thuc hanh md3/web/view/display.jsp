@@ -19,7 +19,7 @@
     <div class="row col-md-10 col-md-offset-1 custyle">
         <form action="/product">
             <input type="text" name="name">
-            <input type="submit">
+            <button type="submit" name="action" value="find">tim kiem</button>
         </form>
         <form method="get">
             <table class="table table-striped custab">
